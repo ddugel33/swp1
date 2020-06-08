@@ -1,2 +1,3 @@
 20203150 Geonung Choi
-Kookmin Univ.SW
+Kookmin Univ.S
+seoulW
